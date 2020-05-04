@@ -1,0 +1,244 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-20 08:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: buy-now-woo.php:33
+#, php-format
+msgid ""
+"WooCommerce Simple Buy Now requires at least WordPress version 4.6, you are "
+"running version %s. Please upgrade and try again!"
+msgstr ""
+
+#: buy-now-woo.php:52
+#, php-format
+msgid ""
+"WooCommerce Simple Buy Now requires at least PHP version 5.4 to work, you "
+"are running version %s. Please contact to your administrator to upgrade PHP "
+"version!"
+msgstr ""
+
+#. 1. URL link.
+#: buy-now-woo.php:77
+#, php-format
+msgid ""
+"WooCommerce Simple Buy Now requires WooCommerce to be installed and active. "
+"You can download %s here."
+msgstr ""
+
+#: includes/functions.php:9
+msgid "px"
+msgstr ""
+
+#: includes/functions.php:10
+msgid "em"
+msgstr ""
+
+#: includes/functions.php:11
+msgid "rem"
+msgstr ""
+
+#: includes/Plugin.php:218 includes/Admin/Settings.php:15
+#: includes/Admin/Settings.php:144
+msgid "Buy Now"
+msgstr ""
+
+#: includes/Admin/Dimensions_Field.php:93
+msgid "Top"
+msgstr ""
+
+#: includes/Admin/Dimensions_Field.php:94
+msgid "Right"
+msgstr ""
+
+#: includes/Admin/Dimensions_Field.php:95
+msgid "Bottom"
+msgstr ""
+
+#: includes/Admin/Dimensions_Field.php:96
+msgid "Left"
+msgstr ""
+
+#: includes/Admin/Settings.php:33
+msgid "General"
+msgstr ""
+
+#: includes/Admin/Settings.php:34 includes/Admin/Settings.php:191
+msgid "Customize"
+msgstr ""
+
+#: includes/Admin/Settings.php:47
+msgid "Before Add To Cart Button"
+msgstr ""
+
+#: includes/Admin/Settings.php:48
+msgid "After Add To Cart Button"
+msgstr ""
+
+#: includes/Admin/Settings.php:49
+msgid "Replace Add To Cart Button"
+msgstr ""
+
+#: includes/Admin/Settings.php:50
+msgid "Before Quantity Input"
+msgstr ""
+
+#: includes/Admin/Settings.php:51
+msgid "After Quantity Input"
+msgstr ""
+
+#: includes/Admin/Settings.php:52
+msgid "Use a Shortcode (for developer)"
+msgstr ""
+
+#: includes/Admin/Settings.php:63
+msgid "Use pop-up"
+msgstr ""
+
+#: includes/Admin/Settings.php:64
+msgid "Redirect to the checkout page (skip the cart page)"
+msgstr ""
+
+#: includes/Admin/Settings.php:105
+msgid "General Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:107
+msgid "The following options are used to configure WC Simple Buy Now actions."
+msgstr ""
+
+#: includes/Admin/Settings.php:113
+msgid "Enable Simple Buy Now"
+msgstr ""
+
+#: includes/Admin/Settings.php:120
+msgid "Redirect"
+msgstr ""
+
+#: includes/Admin/Settings.php:121
+msgid "Use pop-up or redirect to the checkout page"
+msgstr ""
+
+#: includes/Admin/Settings.php:129
+msgid "Simple Buy Now Button Position"
+msgstr ""
+
+#: includes/Admin/Settings.php:130
+msgid ""
+"Where the button need to be added in single page .. before / after / replace"
+msgstr ""
+
+#: includes/Admin/Settings.php:140 includes/Admin/Settings.php:141
+msgid "Simple Buy Button Title"
+msgstr ""
+
+#: includes/Admin/Settings.php:148
+msgid "Reset Cart before Buy Now"
+msgstr ""
+
+#: includes/Admin/Settings.php:154
+msgid "Remove Quantity input"
+msgstr ""
+
+#: includes/Admin/Settings.php:176
+msgid "Customize Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:178
+msgid "The following options are used to configure WC Simple Buy Now style."
+msgstr ""
+
+#: includes/Admin/Settings.php:184
+msgid "Button style"
+msgstr ""
+
+#: includes/Admin/Settings.php:185
+msgid "Use theme style or customize"
+msgstr ""
+
+#: includes/Admin/Settings.php:190
+msgid "Theme style (default)"
+msgstr ""
+
+#: includes/Admin/Settings.php:202
+msgid "Normal colors"
+msgstr ""
+
+#: includes/Admin/Settings.php:208 includes/Admin/Settings.php:247
+msgid "Text color"
+msgstr ""
+
+#: includes/Admin/Settings.php:217 includes/Admin/Settings.php:256
+msgid "Background color"
+msgstr ""
+
+#: includes/Admin/Settings.php:226 includes/Admin/Settings.php:265
+msgid "Border color"
+msgstr ""
+
+#: includes/Admin/Settings.php:241
+msgid "Hover colors"
+msgstr ""
+
+#: includes/Admin/Settings.php:280
+msgid "Dimensions"
+msgstr ""
+
+#: includes/Admin/Settings.php:286
+msgid "Padding"
+msgstr ""
+
+#: includes/Admin/Settings.php:292
+msgid "Margin"
+msgstr ""
+
+#: includes/Admin/Settings.php:304
+msgid "Size"
+msgstr ""
+
+#: includes/Admin/Settings.php:310
+msgid "Width"
+msgstr ""
+
+#: includes/Admin/Settings.php:316
+msgid "Height"
+msgstr ""
+
+#: includes/Admin/Settings.php:328
+msgid "Additional CSS"
+msgstr ""
+
+#: includes/Admin/Settings.php:334
+msgid "CSS code"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Simple Buy Now"
+msgstr ""
+
+#. Description of the plugin
+msgid "Buy your product only one step in the Product Detail page."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpismylife.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "wpismylife"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpismylife.com/contact-me/"
+msgstr ""

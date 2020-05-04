@@ -1,0 +1,24 @@
+{
+  "name": "wpismylife/buy-now-woo",
+  "description": "Buy Now for WooCommerce",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "wpismylife",
+      "email": "wpismylife@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Buy_Now_Woo\\": "includes/"
+    }
+  },
+  "config": {
+    "preferred-install": "dist"
+  }
+}
