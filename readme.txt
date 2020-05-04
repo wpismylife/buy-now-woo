@@ -13,13 +13,13 @@ Buy Now for WooCommerce helps you to add to cart and checkout only one step in t
 == Description ==
 
 Buy Now for WooCommerce helps you to add to cart and checkout only one step in the single product page.
-You only need to create one button `Buy Now` in `WooCommerce > Settings > WC Simple Buy Now` at before / after or replace Add to cart button. A pop-up will be displayed with the content of the checkout page.
+You only need to create one button `Buy Now` in `WooCommerce > Settings > Buy Now` at before / after or replace Add to cart button. A pop-up will be displayed with the content of the checkout page.
 New*: You can select to Redirect to checkout page from v1.0.5
 
 
 = More Information =
 
-* For help use [wordpress.org](http://wordpress.org/support/plugin/woo-simple-buy-now/) or create issues on [Github](https://github.com/wpismylife/buy-now-woo/)
+* For help use [wordpress.org](https://wordpress.org/support/plugin/buy-now-woo//) or create issues on [Github](https://github.com/wpismylife/buy-now-woo/). Also, you can contact wpismylife@gmail.com.
 * Fork or contribute on [GitHub](https://github.com/wpismylife/buy-now-woo/), I would be happy if you leave a star for this GitHub repository
 * Follow me [Twitter](https://twitter.com/andyhoanghuu)
 * View my other [WordPress Plugins](http://profiles.wordpress.org/wpismylife/)
@@ -30,10 +30,10 @@ New*: You can select to Redirect to checkout page from v1.0.5
 Go to `Dashboard > WooCommerce > Settings > Buy Now` tab
 General:
 
-* Enable Simple Buy Now: Activate Buy Now feature
+* Enable Buy Now button: Activate Buy Now feature
 * Redirect: Use a *Pop-up* or *Redirect to the checkout page (skip the cart page)*
-* Simple Buy Now Button Position: Set a position for Buy Now button
-* Simple Buy Button Title: the title default is *Buy Now*
+* Buy Now Button Position: Set a position for Buy Now button
+* Buy Now Button Title: the title default is *Buy Now*
 * Reset Cart before Buy Now: Apcept reset cart before Buy Now
 * Remove Quantity input: Hide quantity input by CSS code
 
@@ -92,6 +92,6 @@ The manual installation method involves downloading my plugin and uploading it t
 
 == Changelog ==
 
-= 1.0.0 - 2017-10-02 =
+= 1.0.0 - 2020-05-01 =
 * Feature - Add WooCommerce Settings.
 

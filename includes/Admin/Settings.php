@@ -104,13 +104,13 @@ class Settings extends \WC_Settings_Page {
 		$settings[] = [
 			'name' => esc_html__( 'General Settings', 'buy-now-woo' ),
 			'type' => 'title',
-			'desc' => esc_html__( 'The following options are used to configure WC Simple Buy Now actions.',
+			'desc' => esc_html__( 'The following options are used to configure Buy Now button actions.',
 				'buy-now-woo' ),
 			'id'   => 'buy_now_woo_settings_start',
 		];
 
 		$settings[] = [
-			'name'    => esc_html__( 'Enable Simple Buy Now', 'buy-now-woo' ),
+			'name'    => esc_html__( 'Enable Buy Now button', 'buy-now-woo' ),
 			'id'      => 'buy_now_woo_single_product_enable',
 			'type'    => 'checkbox',
 			'default' => 'yes',
@@ -126,7 +126,7 @@ class Settings extends \WC_Settings_Page {
 		];
 
 		$settings[] = [
-			'name'     => esc_html__( 'Simple Buy Now Button Position', 'buy-now-woo' ),
+			'name'     => esc_html__( 'Button Position', 'buy-now-woo' ),
 			'desc_tip' => esc_html__( 'Where the button need to be added in single page .. before / after / replace',
 				'buy-now-woo' ),
 			'id'       => 'buy_now_woo_single_product_position',
@@ -137,8 +137,8 @@ class Settings extends \WC_Settings_Page {
 		];
 
 		$settings[] = [
-			'name'     => esc_html__( 'Simple Buy Button Title', 'buy-now-woo' ),
-			'desc_tip' => esc_html__( 'Simple Buy Button Title', 'buy-now-woo' ),
+			'name'     => esc_html__( 'Button Title', 'buy-now-woo' ),
+			'desc_tip' => esc_html__( 'Button Title', 'buy-now-woo' ),
 			'id'       => 'buy_now_woo_single_product_button',
 			'type'     => 'text',
 			'default'  => esc_html__( 'Buy Now', 'buy-now-woo' ),
@@ -175,7 +175,7 @@ class Settings extends \WC_Settings_Page {
 		$settings[] = [
 			'name' => esc_html__( 'Customize Settings', 'buy-now-woo' ),
 			'type' => 'title',
-			'desc' => esc_html__( 'The following options are used to configure WC Simple Buy Now style.',
+			'desc' => esc_html__( 'The following options are used to configure Buy Now button style.',
 				'buy-now-woo' ),
 			'id'   => 'buy_now_woo_settings_start',
 		];
