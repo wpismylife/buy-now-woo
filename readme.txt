@@ -1,6 +1,6 @@
-=== Buy Now for WooCommerce===
+=== Buy Now for WooCommerce ===
 Contributors: wpismylife
-Tags: woocommerce addon, woocommerce buy now, woo buy now, woocommerce checkout in product page
+Tags: woocommerce addon, woocommerce buy now, woo buy now, woocommerce checkout in product page, woocommerce quick buy, buy now button, click buy
 Donate link: paypal.me/wpismylife
 Requires at least: 4.9
 Tested up to: 5.4
@@ -9,21 +9,16 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Buy Now for WooCommerce helps you to add to cart and checkout only one step in the single product page.
+A Buy Now button will be add to single product page with full customizations, helps you buy the product without cart.
+
 
 == Description ==
 
 Buy Now for WooCommerce helps you to add to cart and checkout only one step in the single product page.
 You only need to create one button `Buy Now` in `WooCommerce > Settings > Buy Now` at before / after or replace Add to cart button. A pop-up will be displayed with the content of the checkout page.
-New*: You can select to Redirect to checkout page from v1.0.5
-
+Also, you can use [Checkout Field Editor](https://wordpress.org/plugins/woo-checkout-field-editor-pro/) to clean fields in checkout form (pop-up).
 
 = More Information =
-
-* For help use [wordpress.org](https://wordpress.org/support/plugin/buy-now-woo//) or create issues on [Github](https://github.com/wpismylife/buy-now-woo/). Also, you can contact wpismylife@gmail.com.
-* Fork or contribute on [GitHub](https://github.com/wpismylife/buy-now-woo/), I would be happy if you leave a star for this GitHub repository
-* Follow me [Twitter](https://twitter.com/andyhoanghuu)
-* View my other [WordPress Plugins](http://profiles.wordpress.org/wpismylife/)
-* Contact me and hire me [https://wpismylife.com](https://wpismylife.com/)
 * I would be happy if you leave a review :) [Review](https://wordpress.org/support/plugin/buy-now-woo/reviews/). It's free!
 
 = Settings =
@@ -67,13 +62,7 @@ Visit the [Buy Now for WooCommerce repository](https://github.com/wpismylife/buy
 = Automatic installation =
 
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Buy Now for WooCommerce, log in
-to
-
-your
-
-WordPress
-
-dashboard, navigate to the Plugins menu and click Add New.
+to your WordPress dashboard, navigate to the Plugins menu and click Add New.
 
 In the search field type “Buy Now for WooCommerce” and click Search Plugins. Most importantly of course, you can install it by simply clicking “Install Now”.
 
