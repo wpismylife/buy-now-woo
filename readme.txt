@@ -1,4 +1,4 @@
-=== Buy Now for WooCommerce ===
+=== Buy Now for WooCommerce - WooCommerce Buy Now Button free addon ===
 Contributors: wpismylife
 Tags: woocommerce addon, woocommerce buy now, woo buy now, woocommerce checkout in product page, woocommerce quick buy, buy now button, click buy
 Donate link: paypal.me/wpismylife
