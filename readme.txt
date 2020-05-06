@@ -46,7 +46,7 @@ Customize:
 Arguments: *title* - *class*
 If you are a developer, you can use this shortcode at `content-single-product` template or its child. It should be written on the inside of the form cart.
 For example,
-`do_shortcode( '[buy_now_woo_button title="Buy Now" class="wsb-button"]' );`
+`[buy_now_woo_button title="Buy Now" class="wsb-button"]`
 
 == Installation ==
 
